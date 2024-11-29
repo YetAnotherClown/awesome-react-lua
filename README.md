@@ -38,20 +38,25 @@ No guides here yet.
 ## Examples
 
 ### Contents
-- [**Components**]
-- [**Motion**]
-- [**Hooks**]
+- [**Basic Food Game**]
+- [**Roblox-Typescript Example**]
 
-[**Components**]: #components
-[**Motion**]: #motion
-[**Hooks**]: #hooks
+[**Basic Food Game**]: #basic-food-game
+[**Roblox-Typescript Example**]: #roblox-typescript-example
+
+### Basic Food Game <img src="luau.svg" width="18px" />
+
+An extremely simple game where you gather food so you don't die. Made with [React](https://github.com/jsdotlua/react-lua) and [Rodux](https://github.com/Roblox/rodux). Made for a take-home interview project.
+
+#### Links
+- [**Repository**](https://github.com/jackTabsCode/basic-food-game)
 
 ### Roblox-Typescript Example <img src="roblox-ts.svg" width="18px" />
 
 A simple counter app built with **roblox-ts + React**.
 
 #### Links
-- [**Repository**](https://github.com/littensy/rbxts-react-exampl)
+- [**Repository**](https://github.com/littensy/rbxts-react-example)
 - [**Demo Game**](https://www.roblox.com/games/14747634789/)
 
 ## Components
