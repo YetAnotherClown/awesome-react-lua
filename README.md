@@ -347,8 +347,8 @@ Simple and complete testing utilities that encourage good testing practices.
 - [**React-Error-Boundary**]
 - [**Rbxts-React**]
 - [**React-lua Plus**]
-- [**Rbxts-React**]
-- [**Rbxts-React**]
+- [**React-Matter**]
+- [**React-Tree**]
 
 [**Pumpkin**]: #pumpkin
 [**React-Error-Boundary**]: #react-error-boundary
