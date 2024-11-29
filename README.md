@@ -41,8 +41,8 @@ No guides here yet.
 - [**Basic Food Game**]
 - [**Roblox-Typescript Example**]
 
-[**Basic Food Game**]: #basic-food-game
-[**Roblox-Typescript Example**]: #roblox-typescript-example
+[**Basic Food Game**]: #basic-food-game-
+[**Roblox-Typescript Example**]: #roblox-typescript-example-
 
 ### Basic Food Game <img src="luau.svg" width="18px" />
 
@@ -68,11 +68,11 @@ A simple counter app built with **roblox-ts + React**.
 - [**Synthetic**]
 - [**VirtualizedList-Lua**]
 
-[**FlashList-Lua**]: #flashlist-lua
-[**React-Roblox Studio Plugin**]: #react-roblox-studio-plugin
-[**StudioComponents**]: #studiocomponents
-[**Synthetic**]: #synthetic
-[**VirtualizedList-Lua**]: #virtualizedlist-lua
+[**FlashList-Lua**]: #flashlist-lua-
+[**React-Roblox Studio Plugin**]: #react-roblox-studio-plugin-
+[**StudioComponents**]: #studiocomponents-
+[**Synthetic**]: #synthetic-
+[**VirtualizedList-Lua**]: #virtualizedlist-lua-
 
 ### FlashList-Lua <img src="luau.svg" width="18px" />
 
@@ -153,9 +153,9 @@ A collection of virtual list components, supporting the most handy features:
 - [**React-Spring**]
 - [**Ripple**]
 
-[**React-Otter**]: #react-otter
-[**React-Spring**]: #react-spring
-[**Ripple**]: #ripple
+[**React-Otter**]: #react-otter-
+[**React-Spring**]: #react-spring-
+[**Ripple**]: #ripple-
 
 ### React-Otter <img src="luau.svg" width="18px" />
 
@@ -192,8 +192,8 @@ It is inspired by [roact-spring](https://github.com/chriscerie/roact-spring) and
 - [**Charm**]
 - [**Reflex**]
 
-[**Charm**]: #charm
-[**Reflex**]: #reflex
+[**Charm**]: #charm-
+[**Reflex**]: #reflex-
 
 ### Charm <img src="luau.svg" width="18px" /><img src="roblox-ts.svg" width="18px" />
 
@@ -228,10 +228,10 @@ You can use Reflex with Roact on the client with [`@rbxts/roact-reflex`](https:/
 - [**Pretty React Hooks**]
 
 [**Hooks (howmanysmall)**]: #hooks-howmanysmall-
-[**Pretty React Hooks**]: #pretty-react-hooks
-[**React-Lua Hooks**]: #react-lua-hooks
-[**React-Redux**]: #react-redux
-[**React-Reflex**]: #react-reflex
+[**Pretty React Hooks**]: #pretty-react-hooks-
+[**React-Lua Hooks**]: #react-lua-hooks-
+[**React-Redux**]: #react-redux-
+[**React-Reflex**]: #react-reflex-
 
 ### Hooks (howmanysmall) <img src="luau.svg" width="18px" />
  
@@ -355,12 +355,12 @@ Simple and complete testing utilities that encourage good testing practices.
 - [**React-Matter**]
 - [**React-Tree**]
 
-[**Pumpkin**]: #pumpkin
-[**React-Error-Boundary**]: #react-error-boundary
-[**Rbxts-React**]: #react-for-roblox-typescript
-[**React-lua Plus**]: #react-lua-plus
-[**React-Matter**]: #react-matter
-[**React-Tree**]: #react-tree
+[**Pumpkin**]: #pumpkin-
+[**React-Error-Boundary**]: #react-error-boundary-
+[**Rbxts-React**]: #react-for-roblox-typescript-
+[**React-lua Plus**]: #react-lua-plus-
+[**React-Matter**]: #react-matter-
+[**React-Tree**]: #react-tree-
 
 ### Pumpkin <img src="luau.svg" width="18px" />
 
