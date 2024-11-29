@@ -59,6 +59,21 @@ A simple counter app built with **roblox-ts + React**.
 - [**Repository**](https://github.com/littensy/rbxts-react-example)
 - [**Demo Game**](https://www.roblox.com/games/14747634789/)
 
+### Slither <img src="roblox-ts.svg" width="18px" />
+
+A casual game with a soothing Catppuccin color palette.
+
+Uses:
+- React
+- React-Reflex
+- Ripple
+- Flipper
+- And more
+
+#### Links
+- [**Repository**](https://github.com/littensy/slither)
+- [**Demo Game**](https://www.roblox.com/games/14162747150)
+
 ## Components
 
 ### Contents
