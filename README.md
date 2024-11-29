@@ -173,10 +173,12 @@ A collection of virtual list components, supporting the most handy features:
 ## Motion
 
 ### Contents
+- [**Flipper**]
 - [**React-Otter**]
 - [**React-Spring**]
 - [**Ripple**]
 
+[**Flipper**]: #flipper-
 [**React-Otter**]: #react-otter-
 [**React-Spring**]: #react-spring-
 [**Ripple**]: #ripple-
