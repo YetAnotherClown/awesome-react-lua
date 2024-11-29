@@ -305,6 +305,17 @@ With it you can isolate distinct parts of your game's UI to hammer out edge case
 - [**GitHub Release**](https://github.com/flipbook-labs/flipbook/releases/latest)
 - [**Creator Marketplace**](https://create.roblox.com/store/asset/8517129161/flipbook)
 
+### Hoarcekat
+
+Hoarcekat is a [Storybook-like](https://storybook.js.org/) plugin that makes it easy to preview individual UI elements.
+
+Developers write "stories" that explain how their UI should be previewed. It runs without any knowledge of the rest of your application, meaning you can use it to easily create and preview your UI as isolated components. Because of this, it is especially useful when using [Roact](https://roblox.github.io/roact/), though Roact is not required.
+
+#### Links
+- [**Repository**](https://github.com/Kampfkarren/hoarcekat)
+- [**GitHub Release**](https://github.com/Kampfkarren/hoarcekat/releases/latest)
+- [**Creator Marketplace**](https://www.roblox.com/library/4621580428/Hoarcekat)
+
 ### UI Labs
 
 UI Labs is a Storybook-like plugin for roblox that allows you to visualize stories in real-time without needing to run your code.
