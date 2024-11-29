@@ -48,12 +48,21 @@ No guides here yet.
 
 An extremely simple game where you gather food so you don't die. Made with [React](https://github.com/jsdotlua/react-lua) and [Rodux](https://github.com/Roblox/rodux). Made for a take-home interview project.
 
+Uses:
+- React
+- React-Rodux
+
 #### Links
 - [**Repository**](https://github.com/jackTabsCode/basic-food-game)
 
 ### Roblox-Typescript Example <img src="roblox-ts.svg" width="18px" />
 
 A simple counter app built with **roblox-ts + React**.
+
+Uses:
+- React
+- Ripple
+- Pretty-React-Hooks
 
 #### Links
 - [**Repository**](https://github.com/littensy/rbxts-react-example)
