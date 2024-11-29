@@ -181,6 +181,14 @@ A collection of virtual list components, supporting the most handy features:
 [**React-Spring**]: #react-spring-
 [**Ripple**]: #ripple-
 
+### Flipper <img src="luau.svg" width="18px" />
+
+Flipper is an animation library for Roblox based around Motors and Goals.
+
+#### Links
+- [**Repository**](https://github.com/Reselim/Flipper)
+- [**Wally**](https://wally.run/package/reselim/flipper)
+
 ### React-Otter <img src="luau.svg" width="18px" />
 
 [**Otter**](https://github.com/jsdotlua/otter) is a declarative animation library for Roblox Lua built around (but not limited to) springs.
