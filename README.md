@@ -198,7 +198,7 @@ Flipper is an animation library for Roblox based around Motors and Goals.
 React-Otter exports an interface for using Otter with React.
 
 #### Links
-- [**Repository**](https://github.com/littensy/ripple)
+- [**Repository**](https://github.com/jsdotlua/otter/tree/main/modules/react-otter)
 
 ### React-Spring <img src="luau.svg" width="18px" />
 
