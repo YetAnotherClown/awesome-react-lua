@@ -290,9 +290,9 @@ Includes hooks like `useMotor`, `useAsync`, and `useTagged`.
 
 React-Lua Hooks consists of three main packages that revolves around [react-lua](https://github.com/jsdotlua/react-lua) hooks:
 
-- [Lua hooks](packages/react-lua-hooks/README.md#content): general-purpose collection of hooks for [react-lua](https://github.com/jsdotlua/react-lua)
-- [Roblox hooks](packages/react-roblox-hooks/README.md#content): hooks specifically made for Roblox development
-- [react-render-hook](packages/react-render-hook/README.md#content): a utility function to quickly test React hooks
+- [Lua hooks](https://github.com/seaofvoices/react-lua-hooks/tree/main/packages/react-lua-hooks/README.md#content): general-purpose collection of hooks for [react-lua](https://github.com/jsdotlua/react-lua)
+- [Roblox hooks](https://github.com/seaofvoices/react-lua-hooks/tree/main/packages/react-roblox-hooks/README.md#content): hooks specifically made for Roblox development
+- [react-render-hook](https://github.com/seaofvoices/react-lua-hooks/tree/main/packages/react-render-hook/README.md#content): a utility function to quickly test React hooks
 
 #### Links
 - [**Repository**](https://github.com/seaofvoices/react-lua-hooks)
