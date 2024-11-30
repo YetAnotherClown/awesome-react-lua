@@ -259,7 +259,7 @@ You can use Reflex with Roact on the client with [`@rbxts/roact-reflex`](https:/
 - [**Pretty React Hooks**]
 - [**React-Lua Hooks**]
 - [**React-Redux**]
-- [**Pretty React Hooks**]
+- [**React-Reflex**]
 
 [**Hooks (howmanysmall)**]: #hooks-howmanysmall-
 [**Pretty React Hooks**]: #pretty-react-hooks-
