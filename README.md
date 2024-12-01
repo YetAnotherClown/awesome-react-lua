@@ -3,7 +3,7 @@
 A comprehensive list of awesome projects for React-Lua.
 
 ### Contents
-- [**Guides**]
+- [**Articles**]
 - [**Examples**]
 - [**Components**]
 - [**Motion**]
@@ -13,7 +13,7 @@ A comprehensive list of awesome projects for React-Lua.
 - [**Testing**]
 - [**Other**]
 
-[**Guides**]: #guides
+[**Articles**]: #articles
 [**Examples**]: #examples
 [**Components**]: #components
 [**Motion**]: #motion
@@ -31,9 +31,20 @@ React Lua is a comprehensive translation of upstream [ReactJS](https://github.co
 - [**Repository**](https://github.com/jsdotlua/react-lua)
 - [**Wally**](https://wally.run/package/jsdotlua/react)
 
-## Guides
+## Articles
 
-No guides here yet.
+### Contents
+- [**Things I learned using React on Roblox**]
+
+[**Things I learned using React on Roblox**]: #boyned---things-i-learned-using-react-on-roblox
+
+### boyned - Things I learned using React on Roblox
+
+boyned/Kampfkarren shares tips and tricks she has learned over her years of using React on Roblox in a comprehensive blog post.
+
+#### Links
+- [**Author**](https://github.com/Kampfkarren)
+- [**Blog Post**](https://blog.boyned.com/articles/things-i-learned-using-react/)
 
 ## Examples
 
