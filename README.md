@@ -185,11 +185,13 @@ A collection of virtual list components, supporting the most handy features:
 
 ### Contents
 - [**Flipper**]
+- [**React-Motion**]
 - [**React-Otter**]
 - [**React-Spring**]
 - [**Ripple**]
 
 [**Flipper**]: #flipper-
+[**React-Motion**]: #react-motion-
 [**React-Otter**]: #react-otter-
 [**React-Spring**]: #react-spring-
 [**Ripple**]: #ripple-
@@ -201,6 +203,14 @@ Flipper is an animation library for Roblox based around Motors and Goals.
 #### Links
 - [**Repository**](https://github.com/Reselim/Flipper)
 - [**Wally**](https://wally.run/package/reselim/flipper)
+
+### React-Motion <img src="roblox-ts.svg" width="18px" />
+
+A port of `@rbxts/motion` to React.
+
+#### Links
+- [**Repository**](https://github.com/Firere/motion)
+- [**NPM**](https://www.npmjs.com/@rbxts/react-motion)
 
 ### React-Otter <img src="luau.svg" width="18px" />
 
