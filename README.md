@@ -255,9 +255,11 @@ It is inspired by [roact-spring](https://github.com/chriscerie/roact-spring) and
 
 ### Contents
 - [**Charm**]
+- [**Crate**]
 - [**Reflex**]
 
 [**Charm**]: #charm-
+[**Crate**]: #crate-
 [**Reflex**]: #reflex-
 
 ### Charm <img src="luau.svg" width="18px" /><img src="roblox-ts.svg" width="18px" />
@@ -270,6 +272,17 @@ Store your immutable state in atoms, and write intuitive functions that read, wr
 - [**Repository**](https://github.com/littensy/charm)
 - [**Wally**](https://wally.run/package/littensy/charm)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/charm)
+
+### Crate <img src="roblox-ts.svg" width="18px" />
+
+A simple to use, scalable state container built for the roblox-ts ecosystem.
+
+See it's official [react-crate](https://github.com/Neohertz/react-crate) hooks to use this with React.
+
+#### Links
+- [**Repository**](https://github.com/Neohertz/crate)
+- [**Documentation**](https://docs.neohertz.dev/docs/crate/about)
+- [**NPM**](https://www.npmjs.com/package/@rbxts/crate)
 
 ### Reflex <img src="luau.svg" width="18px" /><img src="roblox-ts.svg" width="18px" />
 
