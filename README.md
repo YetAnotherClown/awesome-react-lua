@@ -51,9 +51,11 @@ boyned/Kampfkarren shares tips and tricks she has learned over her years of usin
 ### Contents
 - [**Basic Food Game**]
 - [**Roblox-Typescript Example**]
+- [**Slither**]
 
 [**Basic Food Game**]: #basic-food-game-
 [**Roblox-Typescript Example**]: #roblox-typescript-example-
+[**Slither**]: #slither-
 
 ### Basic Food Game <img src="luau.svg" width="18px" />
 
