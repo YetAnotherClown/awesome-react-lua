@@ -431,14 +431,12 @@ Simple and complete testing utilities that encourage good testing practices.
 - [**Pumpkin**]
 - [**React-Error-Boundary**]
 - [**Rbxts-React**]
-- [**React-lua Plus**]
 - [**React-Matter**]
 - [**React-Tree**]
 
 [**Pumpkin**]: #pumpkin-
 [**React-Error-Boundary**]: #react-error-boundary-
 [**Rbxts-React**]: #react-for-roblox-typescript-
-[**React-lua Plus**]: #react-lua-plus-
 [**React-Matter**]: #react-matter-
 [**React-Tree**]: #react-tree-
 
@@ -474,18 +472,6 @@ TypeScript type definitions for [React Lua](https://github.com/jsdotlua/react-lu
 #### Links
 - [**Repository**](https://github.com/littensy/rbxts-react)
 - [**NPM**](https://npmjs.com/package/@rbxts/react)
-
-### React-lua Plus <img src="luau.svg" width="18px" />
-
-A lune script that setups `react-lua` with some additional features, such as:
-
-- Simple to setup and use
-- Intellisense for React createElement (but in alternative way called Element)
-- (wip) Event listening and children in props
-- (wip) Server-Sided Rendering (SSR) support for Roblox
-
-#### Links
-- [**Repository**](https://github.com/jiwonz/react-lua-plus)
 
 ### React-Matter <img src="luau.svg" width="18px" />
 
