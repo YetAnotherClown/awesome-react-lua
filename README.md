@@ -199,12 +199,14 @@ A collection of virtual list components, supporting the most handy features:
 - [**Flipper**]
 - [**React-Motion**]
 - [**React-Otter**]
+- [**React-Particle-Emitter**]
 - [**React-Spring**]
 - [**Ripple**]
 
 [**Flipper**]: #flipper-
 [**React-Motion**]: #react-motion-
 [**React-Otter**]: #react-otter-
+[**React-Particle-Emitter**]: #react-particle-emitter-
 [**React-Spring**]: #react-spring-
 [**Ripple**]: #ripple-
 
@@ -232,6 +234,15 @@ React-Otter exports an interface for using Otter with React.
 
 #### Links
 - [**Repository**](https://github.com/jsdotlua/otter/tree/main/modules/react-otter)
+
+### React-Particle-Emitter <img src="roblox-ts.svg" width="18px" />
+
+A 2D Particle Emitter written for **@rbxts/react**.
+
+#### Links
+- [**Documentation**](https://github.com/wad4444/react-particle-emitter/blob/master/README.md)
+- [**Repository**](https://github.com/wad4444/react-particle-emitter)
+- [**NPM**](https://npmjs.com/package/@rbxts/react-particle-emitter)
 
 ### React-Spring <img src="luau.svg" width="18px" />
 
