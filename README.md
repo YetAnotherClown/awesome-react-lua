@@ -99,27 +99,17 @@ Uses:
 ## Components
 
 ### Contents
-- [**FlashList-Lua**]
 - [**React-Lifetime-Component**]
 - [**React-Roblox Studio Plugin**]
 - [**StudioComponents**]
 - [**Synthetic**]
 - [**VirtualizedList-Lua**]
 
-[**FlashList-Lua**]: #flashlist-lua-
 [**React-Lifetime-Component**]: #react-lifetime-component-
 [**React-Roblox Studio Plugin**]: #react-roblox-studio-plugin-
 [**StudioComponents**]: #studiocomponents-
 [**Synthetic**]: #synthetic-
 [**VirtualizedList-Lua**]: #virtualizedlist-lua-
-
-### FlashList-Lua <img src="luau.svg" width="18px" />
-
-Fast & performant React Roblox list. No more blank cells.
-
-#### Links
-- [**Repository**](https://github.com/Neura-Studios/flash-list-lua)
-- [**Wally**](https://wally.run/package/neura-studios/flash-list)
 
 ### React-Lifetime-Component <img src="roblox-ts.svg" width="18px" />
 
