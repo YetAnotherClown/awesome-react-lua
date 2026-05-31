@@ -323,15 +323,20 @@ A large collection of hooks for React by howmanysmall.
 - [**Documentation**](https://howmanysmall.github.io/Hooks/)
 - [**Wally**](https://wally.run/package/howmanysmall/hooks)
 
-### Pretty React Hooks <img src="roblox-ts.svg" width="18px" />
+### Pretty React Hooks <img src="luau.svg" width="18px" /><img src="roblox-ts.svg" width="18px" />
 
 An opinionated collection of useful hooks and utilites for [React](https://github.com/littensy/rbxts-react) in [roblox-ts](https://roblox-ts.com).
 
-Includes hooks like `useMotor`, `useAsync`, and `useTagged`.
+Also available for [React-Lua](https://github.com/jsdotlua/react-lua) via a [community port](https://github.com/NotMirrox/pretty-react-hooks-luau/) to Luau.
 
 #### Links
 - [**Repository**](https://github.com/littensy/pretty-react-hooks)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/pretty-react-hooks)
+
+#### Community Luau Port
+
+- [**Repository**](https://github.com/NotMirrox/pretty-react-hooks-luau/)
+- [**Wally**](https://wally.run/package/notmirrox/pretty-react-hooks)
 
 ### React-Lua Hooks <img src="luau.svg" width="18px" />
 
