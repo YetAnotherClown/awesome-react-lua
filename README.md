@@ -3,6 +3,7 @@
 A comprehensive list of awesome projects for React-Lua.
 
 ### Contents
+
 - [**Articles**]
 - [**Examples**]
 - [**Components**]
@@ -28,12 +29,14 @@ A comprehensive list of awesome projects for React-Lua.
 React Lua is a comprehensive translation of upstream [ReactJS](https://github.com/facebook/react) from JavaScript into Lua, and is highly-turned for both performance and correctness.
 
 #### Links
+
 - [**Repository**](https://github.com/jsdotlua/react-lua)
 - [**Wally**](https://wally.run/package/jsdotlua/react)
 
 ## Articles
 
 ### Contents
+
 - [**Things I learned using React on Roblox**]
 
 [**Things I learned using React on Roblox**]: #boyned---things-i-learned-using-react-on-roblox
@@ -43,12 +46,14 @@ React Lua is a comprehensive translation of upstream [ReactJS](https://github.co
 boyned/Kampfkarren shares tips and tricks she has learned over her years of using React on Roblox in a comprehensive blog post.
 
 #### Links
+
 - [**Author**](https://github.com/Kampfkarren)
 - [**Blog Post**](https://blog.boyned.com/articles/things-i-learned-using-react/)
 
 ## Examples
 
 ### Contents
+
 - [**Basic Food Game**]
 - [**Roblox-Typescript Example**]
 - [**Slither**]
@@ -62,10 +67,12 @@ boyned/Kampfkarren shares tips and tricks she has learned over her years of usin
 An extremely simple game where you gather food so you don't die. Made with [React](https://github.com/jsdotlua/react-lua) and [Rodux](https://github.com/Roblox/rodux). Made for a take-home interview project.
 
 Uses:
+
 - React
 - React-Rodux
 
 #### Links
+
 - [**Repository**](https://github.com/jackTabsCode/basic-food-game)
 
 ### Roblox-Typescript Example <img src="roblox-ts.svg" width="18px" />
@@ -73,11 +80,13 @@ Uses:
 A simple counter app built with **roblox-ts + React**.
 
 Uses:
+
 - React
 - Ripple
 - Pretty-React-Hooks
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/rbxts-react-example)
 - [**Demo Game**](https://www.roblox.com/games/14747634789/)
 
@@ -86,6 +95,7 @@ Uses:
 A casual game with a soothing Catppuccin color palette.
 
 Uses:
+
 - React
 - React-Reflex
 - Ripple
@@ -93,12 +103,14 @@ Uses:
 - And more
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/slither)
 - [**Demo Game**](https://www.roblox.com/games/14162747150)
 
 ## Components
 
 ### Contents
+
 - [**React-Lifetime-Component**]
 - [**React-Roblox Studio Plugin**]
 - [**StudioComponents**]
@@ -116,6 +128,7 @@ Uses:
 A React util that allows you to delay the component's unmounting to your liking.
 
 #### Links
+
 - [**Repository**](https://github.com/PepeElToro41/react-lifetime-component)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/react-lifetime-component)
 
@@ -124,6 +137,7 @@ A React util that allows you to delay the component's unmounting to your liking.
 A component library to create Roblox Studio plugins using react-lua.
 
 #### Links
+
 - [**Repository**](https://github.com/seaofvoices/react-roblox-studio-plugin)
 
 ### StudioComponents <img src="luau.svg" width="18px" />
@@ -139,9 +153,9 @@ A collection of React implementations of Roblox Studio components such as Checkb
 </details>
 
 #### Links
+
 - [**Repository**](https://github.com/sircfenner/StudioComponents)
 - [**Wally**](https://wally.run/package/sircfenner/studiocomponents)
-
 
 ### Synthetic <img src="luau.svg" width="18px" /><img src="roblox-ts.svg" width="18px" />
 
@@ -151,6 +165,7 @@ This UI library is powered by a Fusion framework variant, and has the the goal o
 > Synthetic currently only supports Roact, see Issue [#22](https://github.com/nightcycle/synthetic/issues/22) for more information.
 
 #### Links
+
 - [**Repository**](https://github.com/nightcycle/synthetic)
 - [**Wally - Roact**](https://wally.run/package/nightcycle/synthetic-roact)
 
@@ -180,12 +195,14 @@ A collection of virtual list components, supporting the most handy features:
 </details>
 
 #### Links
+
 - [**Repository**](https://github.com/jsdotlua/virtualized-list-lua)
 - [**Wally**](https://wally.run/package/jsdotlua/virtualized-list)
 
 ## Motion
 
 ### Contents
+
 - [**Flipper**]
 - [**React-Motion**]
 - [**React-Otter**]
@@ -205,6 +222,7 @@ A collection of virtual list components, supporting the most handy features:
 Flipper is an animation library for Roblox based around Motors and Goals.
 
 #### Links
+
 - [**Repository**](https://github.com/Reselim/Flipper)
 - [**Wally**](https://wally.run/package/reselim/flipper)
 
@@ -213,6 +231,7 @@ Flipper is an animation library for Roblox based around Motors and Goals.
 A port of `@rbxts/motion` to React.
 
 #### Links
+
 - [**Repository**](https://github.com/Firere/motion)
 - [**NPM**](https://www.npmjs.com/@rbxts/react-motion)
 
@@ -223,6 +242,7 @@ A port of `@rbxts/motion` to React.
 React-Otter exports an interface for using Otter with React.
 
 #### Links
+
 - [**Repository**](https://github.com/jsdotlua/otter/tree/main/modules/react-otter)
 
 ### React-Particle-Emitter <img src="roblox-ts.svg" width="18px" />
@@ -230,6 +250,7 @@ React-Otter exports an interface for using Otter with React.
 A 2D Particle Emitter written for **@rbxts/react**.
 
 #### Links
+
 - [**Documentation**](https://github.com/wad4444/react-particle-emitter/blob/master/README.md)
 - [**Repository**](https://github.com/wad4444/react-particle-emitter)
 - [**NPM**](https://npmjs.com/package/@rbxts/react-particle-emitter)
@@ -239,6 +260,7 @@ A 2D Particle Emitter written for **@rbxts/react**.
 A modern spring-physics based animation library for Roact inspired by react-spring.
 
 #### Links
+
 - [**Repository**](https://github.com/chriscerie/roact-spring)
 - [**Documentation**](https://www.chrisc.dev/roact-spring/)
 - [**Wally**](https://wally.run/package/chriscerie/react-spring)
@@ -250,6 +272,7 @@ A modern spring-physics based animation library for Roact inspired by react-spri
 It is inspired by [roact-spring](https://github.com/chriscerie/roact-spring) and is primarily intended to be a general-use alternative to [Flipper](https://github.com/Reselim/Flipper) for [Roblox-TS](https://roblox-ts.com).
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/ripple)
 - [**Wally**](https://wally.run/package/littensy/ripple)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/ripple)
@@ -257,6 +280,7 @@ It is inspired by [roact-spring](https://github.com/chriscerie/roact-spring) and
 ## State Management
 
 ### Contents
+
 - [**Charm**]
 - [**Crate**]
 - [**Reflex**]
@@ -272,6 +296,7 @@ It is inspired by [roact-spring](https://github.com/chriscerie/roact-spring) and
 Store your immutable state in atoms, and write intuitive functions that read, write, and subscribe to state.
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/charm)
 - [**Wally**](https://wally.run/package/littensy/charm)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/charm)
@@ -283,6 +308,7 @@ A simple to use, scalable state container built for the roblox-ts ecosystem.
 See it's official [react-crate](https://github.com/Neohertz/react-crate) hooks to use this with React.
 
 #### Links
+
 - [**Repository**](https://github.com/Neohertz/crate)
 - [**Documentation**](https://docs.neohertz.dev/docs/crate/about)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/crate)
@@ -294,6 +320,7 @@ See it's official [react-crate](https://github.com/Neohertz/react-crate) hooks t
 You can use Reflex with Roact on the client with [`@rbxts/roact-reflex`](https://npmjs.com/package/@rbxts/roact-reflex), or use it to manage your game's state on the server.
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/reflex)
 - [**Documentation**](https://littensy.github.io/reflex/)
 - [**Wally**](https://wally.run/package/littensy/reflex)
@@ -302,6 +329,7 @@ You can use Reflex with Roact on the client with [`@rbxts/roact-reflex`](https:/
 ## Hooks
 
 ### Contents
+
 - [**Hooks (howmanysmall)**]
 - [**Pretty React Hooks**]
 - [**React-Lua Hooks**]
@@ -315,10 +343,11 @@ You can use Reflex with Roact on the client with [`@rbxts/roact-reflex`](https:/
 [**React-Reflex**]: #react-reflex-
 
 ### Hooks (howmanysmall) <img src="luau.svg" width="18px" />
- 
+
 A large collection of hooks for React by howmanysmall.
 
 #### Links
+
 - [**Repository**](https://github.com/howmanysmall/Hooks)
 - [**Documentation**](https://howmanysmall.github.io/Hooks/)
 - [**Wally**](https://wally.run/package/howmanysmall/hooks)
@@ -330,6 +359,7 @@ An opinionated collection of useful hooks and utilites for [React](https://githu
 Also available for [React-Lua](https://github.com/jsdotlua/react-lua) via a [community port](https://github.com/NotMirrox/pretty-react-hooks-luau/) to Luau.
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/pretty-react-hooks)
 - [**NPM**](https://www.npmjs.com/package/@rbxts/pretty-react-hooks)
 
@@ -347,6 +377,7 @@ React-Lua Hooks consists of three main packages that revolves around [react-lua]
 - [react-render-hook](https://github.com/seaofvoices/react-lua-hooks/tree/main/packages/react-render-hook/README.md#content): a utility function to quickly test React hooks
 
 #### Links
+
 - [**Repository**](https://github.com/seaofvoices/react-lua-hooks)
 
 ### React-Redux <img src="luau.svg" width="18px" />
@@ -354,6 +385,7 @@ React-Lua Hooks consists of three main packages that revolves around [react-lua]
 Hooks for using Rodux with React-Lua.
 
 #### Links
+
 - [**Repository**](https://github.com/chriscerie/react-redux)
 - [**Wally**](https://wally.run/package/chriscerie/react-redux)
 
@@ -364,6 +396,7 @@ Hooks for using Rodux with React-Lua.
 **React Reflex** provides React hooks and components for Reflex using either [`@rbxts/react`](https://github.com/littensy/rbxts-react) or [`jsdotlua/react`](https://github.com/jsdotlua/react-lua).
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/react-reflex)
 - [**Documentation**](https://littensy.github.io/reflex/docs/guides/roact-reflex/)
 - [**Wally**](https://wally.run/package/littensy/react-reflex)
@@ -391,6 +424,7 @@ With it you can isolate distinct parts of your game's UI to hammer out edge case
 </details>
 
 #### Links
+
 - [**Repository**](https://github.com/flipbook-labs/flipbook)
 - [**Documentation**](https://flipbook-labs.github.io/flipbook)
 - [**GitHub Release**](https://github.com/flipbook-labs/flipbook/releases/latest)
@@ -403,6 +437,7 @@ Hoarcekat is a [Storybook-like](https://storybook.js.org/) plugin that makes it 
 Developers write "stories" that explain how their UI should be previewed. It runs without any knowledge of the rest of your application, meaning you can use it to easily create and preview your UI as isolated components. Because of this, it is especially useful when using [Roact](https://roblox.github.io/roact/), though Roact is not required.
 
 #### Links
+
 - [**Repository**](https://github.com/Kampfkarren/hoarcekat)
 - [**GitHub Release**](https://github.com/Kampfkarren/hoarcekat/releases/latest)
 - [**Creator Marketplace**](https://www.roblox.com/library/4621580428/Hoarcekat)
@@ -417,6 +452,7 @@ UI Labs is a Storybook-like plugin for roblox that allows you to visualize stori
 </details>
 
 #### Links
+
 - [**Repository**](https://github.com/PepeElToro41/ui-labs)
 - [**Documentation**](https://pepeeltoro41.github.io/ui-labs/)
 - [**GitHub Release**](https://github.com/PepeElToro41/ui-labs/releases/latest)
@@ -429,11 +465,13 @@ UI Labs is a Storybook-like plugin for roblox that allows you to visualize stori
 Simple and complete testing utilities that encourage good testing practices.
 
 #### Links
+
 - [**Repository**](https://github.com/jsdotlua/react-testing-library-lua)
 
 ## Other
 
 ### Contents
+
 - [**Pumpkin**]
 - [**React-Error-Boundary**]
 - [**Rbxts-React**]
@@ -453,6 +491,7 @@ An ergonomic and powerful react-lua abstraction for Roblox.
 Pumpkin is a UI library that wraps Roact and Flipper to achieve better expressiveness and ease of writing components.
 
 #### Links
+
 - [**Repository**](https://github.com/NightLapse-Studios/Pumpkin)
 
 ### React-Error-Boundary <img src="luau.svg" width="18px" />
@@ -467,6 +506,7 @@ A robust error boundary library for React-Lua.
 </details>
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/rbxts-react)
 - [**NPM**](https://npmjs.com/package/@rbxts/react)
 
@@ -476,6 +516,7 @@ TypeScript type definitions for [React Lua](https://github.com/jsdotlua/react-lu
 [`@rbxts/react-roblox`](https://npmjs.com/package/@rbxts/react-roblox) may be installed.
 
 #### Links
+
 - [**Repository**](https://github.com/littensy/rbxts-react)
 - [**NPM**](https://npmjs.com/package/@rbxts/react)
 
@@ -489,6 +530,7 @@ It provides access to useful hooks not included in with Matter.
 [matter]: https://matter-ecs.github.io/matter/
 
 #### Links
+
 - [**Repository**](https://github.com/matter-ecs/react-matter)
 - [**Documentation**](https://matter-ecs.github.io/react-matter/)
 
@@ -497,5 +539,6 @@ It provides access to useful hooks not included in with Matter.
 A way to mount your components in the same style as Roact.
 
 #### Links
+
 - [**Repository**](https://github.com/howmanysmall/ReactTree)
 - [**Wally**](https://wally.run/package/howmanysmall/react-tree)
